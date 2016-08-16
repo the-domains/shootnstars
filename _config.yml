@@ -1,18 +1,30 @@
-typography_spectrum: 0.8945895
+title: Action Capture
+collections:
+  - index:
+      path: /
+      number: 15
+      paginate: true
+      navigable: true
+    permalink:
+      path: '/:title/'
+    feed:
+      path: /rss.xml
+      format: rss
+      number: 10
+logo: >-
+  https://the-grid-user-content.s3-us-west-2.amazonaws.com/7225cf76-95c8-4469-9033-4864997fdb15.jpg
 color:
-  saturation: 0.7924441
-  lightness: 0.5046642
+  saturation: 0.5699627
   brandStrength: 0.3633238
-  rhythmicContrast: 0.6268657
+  lightness: 0.5550373
   brandColors:
     - '#E0FBFC'
     - '#C2DFE3'
     - '#9DB4C0'
     - '#5C6B73'
     - '#253237'
-layout_spectrum: 0.6077425
-logo: >-
-  https://the-grid-user-content.s3-us-west-2.amazonaws.com/7225cf76-95c8-4469-9033-4864997fdb15.jpg
-name: Shootnstars
-title: Action Capture
+  rhythmicContrast: 0.5923507
+typography_spectrum: 0.8945895
 description: Your kids deserve better pictures
+layout_spectrum: 0.5611007
+name: Shootnstars
